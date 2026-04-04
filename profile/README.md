@@ -22,8 +22,8 @@ It supports two first-class authoring paths:
 ## Repositories
 
 - [`TradeJS`](https://github.com/TradeJS-Dev/TradeJS) — main monorepo with the core framework, app package, CLI, built-in plugins, infra adapters, and sandbox example
-- [`tradejs-site`](https://github.com/TradeJS-Dev/tradejs-site) — public marketing site for `tradejs.dev`
-- [`tradejs-docs`](https://github.com/TradeJS-Dev/tradejs-docs) — public external-user documentation for `docs.tradejs.dev`
+- [`TradeJS-Site`](https://github.com/TradeJS-Dev/TradeJS-Site) — public marketing site for `tradejs.dev`
+- [`TradeJS-Docs`](https://github.com/TradeJS-Dev/TradeJS-Docs) — public external-user documentation for `docs.tradejs.dev`
 - [`.github`](https://github.com/TradeJS-Dev/.github) — organization profile and shared GitHub metadata
 
 ## Main Package Areas
@@ -38,7 +38,7 @@ It supports two first-class authoring paths:
 
 Public web surfaces are maintained in separate repositories:
 
-- `tradejs-site` for `tradejs.dev`
-- `tradejs-docs` for `docs.tradejs.dev`
+- `TradeJS-Site` for `tradejs.dev`
+- `TradeJS-Docs` for `docs.tradejs.dev`
 
 The framework source of truth remains in the main [`TradeJS`](https://github.com/TradeJS-Dev/TradeJS) repository.

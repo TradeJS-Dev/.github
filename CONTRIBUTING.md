@@ -5,8 +5,8 @@ Thanks for considering a contribution.
 ## Before You Start
 
 - Use `TradeJS` for framework, app, packages, CLI, runtime, and infra changes.
-- Use `tradejs-docs` for public documentation changes.
-- Use `tradejs-site` for public marketing site changes.
+- Use `TradeJS-Docs` for public documentation changes.
+- Use `TradeJS-Site` for public marketing site changes.
 - Start with an issue or discussion before large features, breaking changes, or architecture changes.
 
 ## Contribution Expectations

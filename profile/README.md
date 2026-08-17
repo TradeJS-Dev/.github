@@ -42,3 +42,5 @@ Public web surfaces are maintained in separate repositories:
 - `TradeJS-Docs` for `docs.tradejs.dev`
 
 The framework source of truth remains in the main [`TradeJS`](https://github.com/TradeJS-Dev/TradeJS) repository.
+
+Keywords: ai, claude, codex.

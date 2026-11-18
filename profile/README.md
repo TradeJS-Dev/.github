@@ -17,6 +17,9 @@ It supports two first-class authoring paths:
 
 - Website: [tradejs.dev](https://tradejs.dev)
 - Documentation: [docs.tradejs.dev](https://docs.tradejs.dev)
+- [Install TradeJS](https://docs.tradejs.dev/getting-started/installation)
+- [Browse strategies](https://docs.tradejs.dev/strategies/reference)
+- [Connect an agent through MCP](https://docs.tradejs.dev/guides/mcp)
 - npm organization: [npmjs.com/org/tradejs](https://www.npmjs.com/org/tradejs)
 
 ## Repositories
